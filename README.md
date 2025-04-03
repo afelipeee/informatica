@@ -10,7 +10,8 @@ Segue o Link : https://github.com/afelipeee/informatica/blob/main/Apresenta%C3%A
 
 Segue o Link : https://github.com/afelipeee/informatica/blob/main/ContasMensal%20Alisson.pdf
 
-![image](https://github.com/user-attachments/assets/61b318b4-9736-4f29-8896-86a652661688)
+![image](https://github.com/user-attachments/assets/43c34765-781a-4543-9af7-82067ab032cd)
+
 
 ## 3 - Dados Abertos
 
