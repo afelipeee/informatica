@@ -24,4 +24,5 @@ Segue o Link : https://github.com/afelipeee/informatica/blob/main/quantidade_de_
 
 Segue o LInk : https://github.com/afelipeee/informatica/blob/main/PLANILHA%20POWERBI%201.pbit
 
-https://github.com/afelipeee/informatica/blob/main/Captura%20de%20Tela%20(1).png
+![image](https://github.com/user-attachments/assets/3ec932cb-ba1e-47f2-bf91-e0d2146a3306)
+
