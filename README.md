@@ -24,5 +24,6 @@ Segue o Link : https://github.com/afelipeee/informatica/blob/main/quantidade_de_
 
 Segue o LInk : https://github.com/afelipeee/informatica/blob/main/PLANILHA%20POWERBI%201.pbit
 
-![image](https://github.com/user-attachments/assets/3ec932cb-ba1e-47f2-bf91-e0d2146a3306)
+![image](https://github.com/user-attachments/assets/f3368edf-1b41-4469-ad09-54817680f914)
+
 
