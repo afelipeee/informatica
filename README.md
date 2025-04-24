@@ -26,4 +26,7 @@ Segue o LInk : https://github.com/afelipeee/informatica/blob/main/PLANILHA%20POW
 
 ![image](https://github.com/user-attachments/assets/f3368edf-1b41-4469-ad09-54817680f914)
 
+![image](https://github.com/user-attachments/assets/e29e0d93-7626-4aab-971a-7f54877cc362)
+
+
 
