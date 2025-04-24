@@ -22,7 +22,7 @@ Segue o Link : https://github.com/afelipeee/informatica/blob/main/quantidade_de_
 
 ## ATIVIDADE PARA NOTA.
 
-Segue o LInk : https://github.com/afelipeee/informatica/blob/main/PLANILHA%20POWERBI%201%201%20(1).pbix
+Segue o Link : https://github.com/afelipeee/informatica/blob/main/PLANILHA%20POWERBI%201%201%20(1).pbix
 
 ![image](https://github.com/user-attachments/assets/f3368edf-1b41-4469-ad09-54817680f914)
 
