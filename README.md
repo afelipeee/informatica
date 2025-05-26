@@ -30,8 +30,11 @@ Segue o Link : https://github.com/afelipeee/informatica/blob/main/PLANILHA%20POW
 
 ## Atividade 2.
 https://github.com/afelipeee/informatica/blob/main/GPI_sorvete.ipynb
+![image](https://github.com/user-attachments/assets/ec41a053-3b17-4aa2-9722-acd39d5a6e83)
+
 
 https://github.com/afelipeee/informatica/blob/main/Ice%20Cream.xlsx
+![image](https://github.com/user-attachments/assets/2c27132f-31ee-4f1b-8357-f2bf57ab078d)
 
 
 
