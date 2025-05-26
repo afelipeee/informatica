@@ -28,5 +28,9 @@ Segue o Link : https://github.com/afelipeee/informatica/blob/main/PLANILHA%20POW
 
 ![image](https://github.com/user-attachments/assets/e29e0d93-7626-4aab-971a-7f54877cc362)
 
+## Atividade 2.
+https://github.com/afelipeee/informatica/blob/main/GPI_sorvete.ipynb
+
+
 
 
