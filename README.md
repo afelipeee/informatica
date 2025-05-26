@@ -31,6 +31,7 @@ Segue o Link : https://github.com/afelipeee/informatica/blob/main/PLANILHA%20POW
 ## Atividade 2.
 https://github.com/afelipeee/informatica/blob/main/GPI_sorvete.ipynb
 
+https://github.com/afelipeee/informatica/blob/main/Ice%20Cream.xlsx
 
 
 
